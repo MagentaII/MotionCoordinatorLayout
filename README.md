@@ -1,3 +1,3 @@
 # MotionLayout + coordinatorlayout(JAVA)
 ---
-### 將官網中針對MotionLayout + coordinatorlayout利用Kotlin所撰寫的程式，改成利用JAVA做撰寫
+### 將官網中利用Kotlin所撰寫的MotionLayout + coordinatorlayout的應用，改成利用JAVA撰寫
